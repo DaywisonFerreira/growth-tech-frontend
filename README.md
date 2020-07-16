@@ -30,7 +30,7 @@ Technologies used:
 
   # Run
   $ yarn start
-
+```
 
 ### Made with :heart: by Daywison Leal
 -  [LinkedIn](https://www.linkedin.com/in/daywison-leal/)
